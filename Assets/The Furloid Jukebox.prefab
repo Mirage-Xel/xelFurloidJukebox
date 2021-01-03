@@ -1449,6 +1449,7 @@ MonoBehaviour:
   rightArrow: {fileID: 114897374252960822}
   questionText: {fileID: 102262651837784346}
   answerText: {fileID: 102975772399195954}
+  detail: {fileID: 102167743816244042}
   songSnippets:
   - {fileID: 8300000, guid: 167ce00604de8d44ab2712cad38e8289, type: 3}
   - {fileID: 8300000, guid: 679355d1df5f2ca48bada7ae411d1b4b, type: 3}
@@ -1475,7 +1476,6 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 998fe20346f93684f85b1ce5ac3eea84, type: 3}
   - {fileID: 8300000, guid: c6574b8b649c27e4c94113172c97465b, type: 3}
   - {fileID: 8300000, guid: 3b32296f0ec5d4c44b104a05d3f8ed94, type: 3}
-  detail: {fileID: 102167743816244042}
   module: {fileID: 114430973874086362}
   sound: {fileID: 114584762938934030}
 --- !u!114 &114674676804096002
